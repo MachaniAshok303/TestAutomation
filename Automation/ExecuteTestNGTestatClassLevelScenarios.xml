@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Testng TestScripts">
+  <test name="ActiTimeScenarios">
+  	<classes>
+  		<class name="com.sgtesting.actitime.scenarios.Assignment1ObjectModel"></class>
+  		<class name="com.sgtesting.actitime.scenarios.Assignment2ObjectModel"></class>
+  		<class name="com.sgtesting.actitime.scenarios.Assignment3ObjectModel"></class>
+  		<class name="com.sgtesting.actitime.scenarios.Assignment4ObjectModel"></class>
+  		<class name="com.sgtesting.actitime.scenarios.Assignment5ObjectModel"></class>
+  		<class name="com.sgtesting.actitime.scenarios.Assignment6ObjectModel"></class>
+  		<class name="com.sgtesting.actitime.scenarios.Assignment7ObjectModel"></class>
+  	</classes>
+  </test>
+</suite>

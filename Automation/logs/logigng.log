@@ -1,0 +1,133 @@
+2021-11-16 14:53:40 INFO  Automation Assignment1:29 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:53:42 INFO  Automation Assignment1:33 - The Browser has launched successfully in Assignment1
+2021-11-16 14:53:44 INFO  Automation Assignment1:46 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:53:44 INFO  Automation Assignment1:48 - The ActiTime page has navigated successfully in Assignment1
+2021-11-16 14:53:44 INFO  Automation Assignment1:60 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:53:44 INFO  Automation Assignment1:64 - The ActiTime page has login successfully in Assignment1
+2021-11-16 14:53:49 INFO  Automation Assignment1:77 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:53:51 INFO  Automation Assignment1:80 - In ActiTime page FlyOutWindow has Minimized in Assignment1
+2021-11-16 14:53:51 INFO  Automation Assignment1:92 - path
+2021-11-16 14:54:01 INFO  Automation Assignment1:105 - The ActiTime page has Created User1 successfully in Assignment1
+2021-11-16 14:54:01 INFO  Automation Assignment1:117 - path
+2021-11-16 14:54:13 INFO  Automation Assignment1:127 - The ActiTime page has Deleted User1 successfully in Assignment1 
+2021-11-16 14:54:13 INFO  Automation Assignment1:139 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:54:15 INFO  Automation Assignment1:142 - The ActiTime page has logout successfully in Assignment1
+2021-11-16 14:54:15 INFO  Automation Assignment1:154 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:54:15 INFO  Automation Assignment1:156 - The ActiTime page has closed Application Sucessfully in Assignment1
+2021-11-16 14:54:15 INFO  Automation Assignment2:27 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:54:16 INFO  Automation Assignment2:31 - The Browser has launched successfully in Assignment2
+2021-11-16 14:54:16 INFO  Automation Assignment2:43 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:54:20 INFO  Automation Assignment2:46 - The ActiTime page has navigated Succesfully in Assignment2
+2021-11-16 14:54:20 INFO  Automation Assignment2:58 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:54:20 INFO  Automation Assignment2:62 - The ActiTime page has Login Succesfully in Assignment2
+2021-11-16 14:54:25 INFO  Automation Assignment2:75 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:54:27 INFO  Automation Assignment2:78 - The ActiTime page FlyOutWindow has Minimized  in Assignment2
+2021-11-16 14:54:27 INFO  Automation Assignment2:91 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:54:37 INFO  Automation Assignment2:104 - The ActiTime page has Created User1 Sucessfully in Assignment2
+2021-11-16 14:54:37 INFO  Automation Assignment2:116 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:54:44 INFO  Automation Assignment2:125 - The ActiTime page has Modified User2 Sucessfully in Assignment2
+2021-11-16 14:54:44 INFO  Automation Assignment2:137 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:54:55 INFO  Automation Assignment2:147 - The ActiTime page has Deleted User1 Sucessfully in Assignment2
+2021-11-16 14:54:55 INFO  Automation Assignment2:159 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:54:56 INFO  Automation Assignment2:161 - The ActiTime page has Logout Application Sucessfully in Assignment2
+2021-11-16 14:54:58 INFO  Automation Assignment2:174 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:54:58 INFO  Automation Assignment2:176 - The ActiTime page has closed Application Sucessfully in Assignment2
+2021-11-16 14:54:58 INFO  Automation Assignment3:26 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:54:59 INFO  Automation Assignment3:30 - The Browser has launched successfully in Assignment3
+2021-11-16 14:54:59 INFO  Automation Assignment3:42 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:55:02 INFO  Automation Assignment3:45 - The ActiTime page has navigated successfully in Assignment3
+2021-11-16 14:55:02 INFO  Automation Assignment3:57 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:55:07 INFO  Automation Assignment3:62 - The ActiTime page has login successfully in Assignment3
+2021-11-16 14:55:07 INFO  Automation Assignment3:74 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:55:09 INFO  Automation Assignment3:77 - In ActiTime page FlyOutWindow has Minimized in Assignment3
+2021-11-16 14:55:09 INFO  Automation Assignment3:89 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:55:15 INFO  Automation Assignment3:98 - The ActiTime page has Created Customer successfully in Assignment3
+2021-11-16 14:55:16 INFO  Automation Assignment3:111 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:55:21 INFO  Automation Assignment3:119 - The ActiTime page has Deleted Customer successfully in Assignment3
+2021-11-16 14:55:21 INFO  Automation Assignment3:131 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:55:23 INFO  Automation Assignment3:134 - The ActiTime page has Logout Application Sucessfully in Assignment3
+2021-11-16 14:55:23 INFO  Automation Assignment3:146 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:55:24 INFO  Automation Assignment3:148 - The ActiTime page has closed Application Sucessfully in Assignment3
+2021-11-16 14:55:24 INFO  Automation Assignment4:26 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:55:25 INFO  Automation Assignment4:31 - The Browser has launched successfully in Assignment4
+2021-11-16 14:55:25 INFO  Automation Assignment4:43 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:55:27 INFO  Automation Assignment4:46 - The ActiTime page has navigated successfully in Assignment4
+2021-11-16 14:55:27 INFO  Automation Assignment4:58 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:55:32 INFO  Automation Assignment4:63 - The ActiTime page has login successfully in Assignment3
+2021-11-16 14:55:32 INFO  Automation Assignment4:75 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:55:34 INFO  Automation Assignment4:79 - The ActiTime page FlyOutWindow has Minimized  in Assignment4
+2021-11-16 14:55:34 INFO  Automation Assignment4:91 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:55:42 INFO  Automation Assignment4:102 - The ActiTime page has Created Customer successfully in Assignment4
+2021-11-16 14:55:42 INFO  Automation Assignment4:114 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:55:46 INFO  Automation Assignment4:123 - The ActiTime page has Modified Customer successfully in Assignment4
+2021-11-16 14:55:46 INFO  Automation Assignment4:135 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:55:52 INFO  Automation Assignment4:144 - The ActiTime page has Deleted Customer successfully in Assignment4
+2021-11-16 14:55:52 INFO  Automation Assignment4:156 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:55:54 INFO  Automation Assignment4:159 - The ActiTime page has Logout Application Sucessfully in Assignment4
+2021-11-16 14:55:54 INFO  Automation Assignment4:171 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:55:55 INFO  Automation Assignment4:173 - The ActiTime page has closed Application Sucessfully in Assignment4
+2021-11-16 14:55:55 INFO  Automation Assignment5:25 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:55:56 INFO  Automation Assignment5:30 - The Browser has launched successfully in Assignment5
+2021-11-16 14:55:56 INFO  Automation Assignment5:42 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:55:58 INFO  Automation Assignment5:45 - The ActiTime page has navigated successfully in Assignment5
+2021-11-16 14:55:58 INFO  Automation Assignment5:57 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:56:03 INFO  Automation Assignment5:62 - The ActiTime page has login successfully in Assignment3
+2021-11-16 14:56:03 INFO  Automation Assignment5:74 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:56:05 INFO  Automation Assignment5:77 - The ActiTime page FlyOutWindow has Minimized  in Assignment5
+2021-11-16 14:56:05 INFO  Automation Assignment5:89 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:56:13 INFO  Automation Assignment5:100 - The ActiTime page has Created Customer successfully in Assignment5
+2021-11-16 14:56:13 INFO  Automation Assignment5:112 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:56:19 INFO  Automation Assignment5:122 - The ActiTime page has Created Project successfully in Assignment5
+2021-11-16 14:56:19 INFO  Automation Assignment5:135 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:56:25 INFO  Automation Assignment5:144 - The ActiTime page has Deleted Project successfully in Assignment5
+2021-11-16 14:56:26 INFO  Automation Assignment5:158 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:56:32 INFO  Automation Assignment5:167 - The ActiTime page has Deleted Customer successfully in Assignment5
+2021-11-16 14:56:33 INFO  Automation Assignment5:180 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:56:35 INFO  Automation Assignment5:183 - The ActiTime page has Logout successfully in Assignment5
+2021-11-16 14:56:35 INFO  Automation Assignment5:196 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:56:35 INFO  Automation Assignment5:198 - The ActiTime page has closed Application Sucessfully in Assignment5
+2021-11-16 14:56:35 INFO  Automation Assignment6:25 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:56:36 INFO  Automation Assignment6:30 - The Browser has launched successfully in Assignment6
+2021-11-16 14:56:36 INFO  Automation Assignment6:42 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:56:38 INFO  Automation Assignment6:45 - The ActiTime page has navigated successfully in Assignment6
+2021-11-16 14:56:38 INFO  Automation Assignment6:57 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:56:44 INFO  Automation Assignment6:62 - The ActiTime page has login successfully in Assignment3
+2021-11-16 14:56:44 INFO  Automation Assignment6:74 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:56:44 INFO  Automation Assignment6:76 - The ActiTime page FlyOutWindow has Minimized  in Assignment6
+2021-11-16 14:56:46 INFO  Automation Assignment6:89 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:56:54 INFO  Automation Assignment6:100 - The ActiTime page has Created Customer successfully in Assignment5
+2021-11-16 14:56:54 INFO  Automation Assignment6:112 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:56:59 INFO  Automation Assignment6:122 - The ActiTime page has Created Project successfully in Assignment5
+2021-11-16 14:56:59 INFO  Automation Assignment6:135 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:57:08 INFO  Automation Assignment6:149 - The ActiTime page has Modified Project successfully in Assignment6
+2021-11-16 14:57:09 INFO  Automation Assignment6:163 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:57:15 INFO  Automation Assignment6:172 - The ActiTime page has Deleted Project successfully in Assignment6
+2021-11-16 14:57:16 INFO  Automation Assignment6:186 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:57:23 INFO  Automation Assignment6:196 - The ActiTime page has Deleted Customer successfully in Assignment6
+2021-11-16 14:57:23 INFO  Automation Assignment6:208 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:57:25 INFO  Automation Assignment6:211 - The ActiTime page has Logout successfully in Assignment6
+2021-11-16 14:57:25 INFO  Automation Assignment6:223 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:57:26 INFO  Automation Assignment6:225 - The ActiTime page has closed Application Sucessfully in Assignment6
+2021-11-16 14:57:26 INFO  Automation Assignment7:25 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:57:27 INFO  Automation Assignment7:41 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:57:29 INFO  Automation Assignment7:44 - The ActiTime page has navigated successfully in Assignment7
+2021-11-16 14:57:29 INFO  Automation Assignment7:56 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:57:34 INFO  Automation Assignment7:61 - The ActiTime page has login successfully in Assignment3
+2021-11-16 14:57:34 INFO  Automation Assignment7:73 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:57:34 INFO  Automation Assignment7:75 - The ActiTime page FlyOutWindow has Minimized  in Assignment7
+2021-11-16 14:57:36 INFO  Automation Assignment7:88 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:57:44 INFO  Automation Assignment7:99 - The ActiTime page has Created Customer successfully in Assignment6
+2021-11-16 14:57:44 INFO  Automation Assignment7:111 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:57:50 INFO  Automation Assignment7:122 - The ActiTime page has Create Project successfully in Assignment7
+2021-11-16 14:57:50 INFO  Automation Assignment7:134 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:58:01 INFO  Automation Assignment7:143 - The ActiTime page has Create Task successfully in Assignment7
+2021-11-16 14:58:01 INFO  Automation Assignment7:155 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:58:11 INFO  Automation Assignment7:164 - The ActiTime page has Deleted Task successfully in Assignment7
+2021-11-16 14:58:11 INFO  Automation Assignment7:177 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:58:18 INFO  Automation Assignment7:187 - The ActiTime page has Deleted Project successfully in Assignment7
+2021-11-16 14:58:18 INFO  Automation Assignment7:199 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:58:25 INFO  Automation Assignment7:209 - The ActiTime page has Deleted Customer successfully in Assignment7
+2021-11-16 14:58:25 INFO  Automation Assignment7:221 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:58:25 INFO  Automation Assignment7:223 - The ActiTime page Admin has Logout Application Sucessfully in Assignment7
+2021-11-16 14:58:27 INFO  Automation Assignment7:236 - D:\testing\GitHub\CurrentWorkSpace\TestAutomation\Automation
+2021-11-16 14:58:28 INFO  Automation Assignment7:238 - The ActiTime page has closed Application Sucessfully in Assignment7
