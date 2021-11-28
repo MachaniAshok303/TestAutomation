@@ -1,0 +1,414 @@
+<html>
+<head>
+<title>TestNG:  ActiTimeScenrios</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>ActiTimeScenrios</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>67/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Nov 16 00:43:46 IST 2021</td>
+</tr>
+<tr><td>Total time:</td><td>299 seconds (299465 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment6ObjectModel.modifyproject()'><b>modifyproject</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment6ObjectModel</td>
+<td></td>
+<td>9</td>
+<td>com.sgtesting.actitime.scenarios.Assignment6ObjectModel@451001e5</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment2ObjectModel.login()'><b>login</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment2ObjectModel</td>
+<td></td>
+<td>5</td>
+<td>com.sgtesting.actitime.scenarios.Assignment2ObjectModel@7c137fd5</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment5ObjectModel.logout()'><b>logout</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment5ObjectModel</td>
+<td></td>
+<td>2</td>
+<td>com.sgtesting.actitime.scenarios.Assignment5ObjectModel@221a3fa4</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment7ObjectModel.navigate()'><b>navigate</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment7ObjectModel</td>
+<td></td>
+<td>2</td>
+<td>com.sgtesting.actitime.scenarios.Assignment7ObjectModel@2b40ff9c</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment1ObjectModel.navigate()'><b>navigate</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment1ObjectModel</td>
+<td></td>
+<td>4</td>
+<td>com.sgtesting.actitime.scenarios.Assignment1ObjectModel@5b218417</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment4ObjectModel.navigate()'><b>navigate</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment4ObjectModel</td>
+<td></td>
+<td>1</td>
+<td>com.sgtesting.actitime.scenarios.Assignment4ObjectModel@7d9d0818</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment7ObjectModel.createproject()'><b>createproject</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment7ObjectModel</td>
+<td></td>
+<td>5</td>
+<td>com.sgtesting.actitime.scenarios.Assignment7ObjectModel@2b40ff9c</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment7ObjectModel.deleteTask()'><b>deleteTask</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment7ObjectModel</td>
+<td></td>
+<td>10</td>
+<td>com.sgtesting.actitime.scenarios.Assignment7ObjectModel@2b40ff9c</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment4ObjectModel.launchBrowser()'><b>launchBrowser</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment4ObjectModel</td>
+<td></td>
+<td>1</td>
+<td>com.sgtesting.actitime.scenarios.Assignment4ObjectModel@7d9d0818</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment7ObjectModel.logout()'><b>logout</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment7ObjectModel</td>
+<td></td>
+<td>2</td>
+<td>com.sgtesting.actitime.scenarios.Assignment7ObjectModel@2b40ff9c</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment5ObjectModel.createproject()'><b>createproject</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment5ObjectModel</td>
+<td></td>
+<td>5</td>
+<td>com.sgtesting.actitime.scenarios.Assignment5ObjectModel@221a3fa4</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment7ObjectModel.createTask()'><b>createTask</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment7ObjectModel</td>
+<td></td>
+<td>10</td>
+<td>com.sgtesting.actitime.scenarios.Assignment7ObjectModel@2b40ff9c</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment3ObjectModel.launchBrowser()'><b>launchBrowser</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment3ObjectModel</td>
+<td></td>
+<td>1</td>
+<td>com.sgtesting.actitime.scenarios.Assignment3ObjectModel@183ec003</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment2ObjectModel.createUser1()'><b>createUser1</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment2ObjectModel</td>
+<td></td>
+<td>10</td>
+<td>com.sgtesting.actitime.scenarios.Assignment2ObjectModel@7c137fd5</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment6ObjectModel.createcustomer()'><b>createcustomer</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment6ObjectModel</td>
+<td></td>
+<td>8</td>
+<td>com.sgtesting.actitime.scenarios.Assignment6ObjectModel@451001e5</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment6ObjectModel.createproject()'><b>createproject</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment6ObjectModel</td>
+<td></td>
+<td>5</td>
+<td>com.sgtesting.actitime.scenarios.Assignment6ObjectModel@451001e5</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment2ObjectModel.logout()'><b>logout</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment2ObjectModel</td>
+<td></td>
+<td>2</td>
+<td>com.sgtesting.actitime.scenarios.Assignment2ObjectModel@7c137fd5</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment1ObjectModel.launchBrowser()'><b>launchBrowser</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment1ObjectModel</td>
+<td></td>
+<td>5</td>
+<td>com.sgtesting.actitime.scenarios.Assignment1ObjectModel@5b218417</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment5ObjectModel.deleteproject()'><b>deleteproject</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment5ObjectModel</td>
+<td></td>
+<td>7</td>
+<td>com.sgtesting.actitime.scenarios.Assignment5ObjectModel@221a3fa4</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment7ObjectModel.minimizeFlyOutWindow()'><b>minimizeFlyOutWindow</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment7ObjectModel</td>
+<td></td>
+<td>2</td>
+<td>com.sgtesting.actitime.scenarios.Assignment7ObjectModel@2b40ff9c</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment3ObjectModel.createcustomer()'><b>createcustomer</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment3ObjectModel</td>
+<td></td>
+<td>7</td>
+<td>com.sgtesting.actitime.scenarios.Assignment3ObjectModel@183ec003</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment7ObjectModel.createcustomer()'><b>createcustomer</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment7ObjectModel</td>
+<td></td>
+<td>7</td>
+<td>com.sgtesting.actitime.scenarios.Assignment7ObjectModel@2b40ff9c</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment7ObjectModel.login()'><b>login</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment7ObjectModel</td>
+<td></td>
+<td>5</td>
+<td>com.sgtesting.actitime.scenarios.Assignment7ObjectModel@2b40ff9c</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment1ObjectModel.closeApplication()'><b>closeApplication</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment1ObjectModel</td>
+<td></td>
+<td>0</td>
+<td>com.sgtesting.actitime.scenarios.Assignment1ObjectModel@5b218417</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment6ObjectModel.launchBrowser()'><b>launchBrowser</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment6ObjectModel</td>
+<td></td>
+<td>1</td>
+<td>com.sgtesting.actitime.scenarios.Assignment6ObjectModel@451001e5</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment4ObjectModel.logout()'><b>logout</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment4ObjectModel</td>
+<td></td>
+<td>2</td>
+<td>com.sgtesting.actitime.scenarios.Assignment4ObjectModel@7d9d0818</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment3ObjectModel.login()'><b>login</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment3ObjectModel</td>
+<td></td>
+<td>5</td>
+<td>com.sgtesting.actitime.scenarios.Assignment3ObjectModel@183ec003</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment2ObjectModel.deleteUser1()'><b>deleteUser1</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment2ObjectModel</td>
+<td></td>
+<td>11</td>
+<td>com.sgtesting.actitime.scenarios.Assignment2ObjectModel@7c137fd5</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment7ObjectModel.launchBrowser()'><b>launchBrowser</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment7ObjectModel</td>
+<td></td>
+<td>1</td>
+<td>com.sgtesting.actitime.scenarios.Assignment7ObjectModel@2b40ff9c</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment1ObjectModel.deleteUser1()'><b>deleteUser1</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment1ObjectModel</td>
+<td></td>
+<td>11</td>
+<td>com.sgtesting.actitime.scenarios.Assignment1ObjectModel@5b218417</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment3ObjectModel.closeApplication()'><b>closeApplication</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment3ObjectModel</td>
+<td></td>
+<td>0</td>
+<td>com.sgtesting.actitime.scenarios.Assignment3ObjectModel@183ec003</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment5ObjectModel.navigate()'><b>navigate</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment5ObjectModel</td>
+<td></td>
+<td>2</td>
+<td>com.sgtesting.actitime.scenarios.Assignment5ObjectModel@221a3fa4</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment2ObjectModel.navigate()'><b>navigate</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment2ObjectModel</td>
+<td></td>
+<td>3</td>
+<td>com.sgtesting.actitime.scenarios.Assignment2ObjectModel@7c137fd5</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment4ObjectModel.closeApplication()'><b>closeApplication</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment4ObjectModel</td>
+<td></td>
+<td>0</td>
+<td>com.sgtesting.actitime.scenarios.Assignment4ObjectModel@7d9d0818</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment6ObjectModel.navigate()'><b>navigate</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment6ObjectModel</td>
+<td></td>
+<td>2</td>
+<td>com.sgtesting.actitime.scenarios.Assignment6ObjectModel@451001e5</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment3ObjectModel.minimizeFlyOutWindow()'><b>minimizeFlyOutWindow</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment3ObjectModel</td>
+<td></td>
+<td>2</td>
+<td>com.sgtesting.actitime.scenarios.Assignment3ObjectModel@183ec003</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment6ObjectModel.minimizeFlyOutWindow()'><b>minimizeFlyOutWindow</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment6ObjectModel</td>
+<td></td>
+<td>2</td>
+<td>com.sgtesting.actitime.scenarios.Assignment6ObjectModel@451001e5</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment3ObjectModel.logout()'><b>logout</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment3ObjectModel</td>
+<td></td>
+<td>2</td>
+<td>com.sgtesting.actitime.scenarios.Assignment3ObjectModel@183ec003</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment5ObjectModel.launchBrowser()'><b>launchBrowser</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment5ObjectModel</td>
+<td></td>
+<td>1</td>
+<td>com.sgtesting.actitime.scenarios.Assignment5ObjectModel@221a3fa4</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment4ObjectModel.login()'><b>login</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment4ObjectModel</td>
+<td></td>
+<td>5</td>
+<td>com.sgtesting.actitime.scenarios.Assignment4ObjectModel@7d9d0818</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment4ObjectModel.createcustomer()'><b>createcustomer</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment4ObjectModel</td>
+<td></td>
+<td>8</td>
+<td>com.sgtesting.actitime.scenarios.Assignment4ObjectModel@7d9d0818</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment4ObjectModel.minimizeFlyOutWindow()'><b>minimizeFlyOutWindow</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment4ObjectModel</td>
+<td></td>
+<td>2</td>
+<td>com.sgtesting.actitime.scenarios.Assignment4ObjectModel@7d9d0818</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment4ObjectModel.modifycustomer()'><b>modifycustomer</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment4ObjectModel</td>
+<td></td>
+<td>3</td>
+<td>com.sgtesting.actitime.scenarios.Assignment4ObjectModel@7d9d0818</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment2ObjectModel.modifyUser1()'><b>modifyUser1</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment2ObjectModel</td>
+<td></td>
+<td>6</td>
+<td>com.sgtesting.actitime.scenarios.Assignment2ObjectModel@7c137fd5</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment1ObjectModel.login()'><b>login</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment1ObjectModel</td>
+<td></td>
+<td>5</td>
+<td>com.sgtesting.actitime.scenarios.Assignment1ObjectModel@5b218417</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment6ObjectModel.deletecustomer()'><b>deletecustomer</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment6ObjectModel</td>
+<td></td>
+<td>7</td>
+<td>com.sgtesting.actitime.scenarios.Assignment6ObjectModel@451001e5</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment1ObjectModel.minimizeFlyOutWindow()'><b>minimizeFlyOutWindow</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment1ObjectModel</td>
+<td></td>
+<td>2</td>
+<td>com.sgtesting.actitime.scenarios.Assignment1ObjectModel@5b218417</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment2ObjectModel.minimizeFlyOutWindow()'><b>minimizeFlyOutWindow</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment2ObjectModel</td>
+<td></td>
+<td>2</td>
+<td>com.sgtesting.actitime.scenarios.Assignment2ObjectModel@7c137fd5</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment6ObjectModel.login()'><b>login</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment6ObjectModel</td>
+<td></td>
+<td>5</td>
+<td>com.sgtesting.actitime.scenarios.Assignment6ObjectModel@451001e5</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment5ObjectModel.minimizeFlyOutWindow()'><b>minimizeFlyOutWindow</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment5ObjectModel</td>
+<td></td>
+<td>2</td>
+<td>com.sgtesting.actitime.scenarios.Assignment5ObjectModel@221a3fa4</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment2ObjectModel.launchBrowser()'><b>launchBrowser</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment2ObjectModel</td>
+<td></td>
+<td>1</td>
+<td>com.sgtesting.actitime.scenarios.Assignment2ObjectModel@7c137fd5</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment4ObjectModel.deletecustomer()'><b>deletecustomer</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment4ObjectModel</td>
+<td></td>
+<td>6</td>
+<td>com.sgtesting.actitime.scenarios.Assignment4ObjectModel@7d9d0818</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment7ObjectModel.deletecustomer()'><b>deletecustomer</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment7ObjectModel</td>
+<td></td>
+<td>7</td>
+<td>com.sgtesting.actitime.scenarios.Assignment7ObjectModel@2b40ff9c</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment7ObjectModel.deleteproject()'><b>deleteproject</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment7ObjectModel</td>
+<td></td>
+<td>4</td>
+<td>com.sgtesting.actitime.scenarios.Assignment7ObjectModel@2b40ff9c</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment6ObjectModel.deleteproject()'><b>deleteproject</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment6ObjectModel</td>
+<td></td>
+<td>7</td>
+<td>com.sgtesting.actitime.scenarios.Assignment6ObjectModel@451001e5</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment5ObjectModel.deletecustomer()'><b>deletecustomer</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment5ObjectModel</td>
+<td></td>
+<td>7</td>
+<td>com.sgtesting.actitime.scenarios.Assignment5ObjectModel@221a3fa4</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment6ObjectModel.closeApplication()'><b>closeApplication</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment6ObjectModel</td>
+<td></td>
+<td>0</td>
+<td>com.sgtesting.actitime.scenarios.Assignment6ObjectModel@451001e5</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment2ObjectModel.closeApplication()'><b>closeApplication</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment2ObjectModel</td>
+<td></td>
+<td>0</td>
+<td>com.sgtesting.actitime.scenarios.Assignment2ObjectModel@7c137fd5</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment5ObjectModel.login()'><b>login</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment5ObjectModel</td>
+<td></td>
+<td>5</td>
+<td>com.sgtesting.actitime.scenarios.Assignment5ObjectModel@221a3fa4</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment1ObjectModel.logout()'><b>logout</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment1ObjectModel</td>
+<td></td>
+<td>2</td>
+<td>com.sgtesting.actitime.scenarios.Assignment1ObjectModel@5b218417</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment1ObjectModel.createUser1()'><b>createUser1</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment1ObjectModel</td>
+<td></td>
+<td>12</td>
+<td>com.sgtesting.actitime.scenarios.Assignment1ObjectModel@5b218417</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment5ObjectModel.closeApplication()'><b>closeApplication</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment5ObjectModel</td>
+<td></td>
+<td>0</td>
+<td>com.sgtesting.actitime.scenarios.Assignment5ObjectModel@221a3fa4</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment3ObjectModel.navigate()'><b>navigate</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment3ObjectModel</td>
+<td></td>
+<td>2</td>
+<td>com.sgtesting.actitime.scenarios.Assignment3ObjectModel@183ec003</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment5ObjectModel.createcustomer()'><b>createcustomer</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment5ObjectModel</td>
+<td></td>
+<td>8</td>
+<td>com.sgtesting.actitime.scenarios.Assignment5ObjectModel@221a3fa4</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment3ObjectModel.deletecustomer()'><b>deletecustomer</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment3ObjectModel</td>
+<td></td>
+<td>5</td>
+<td>com.sgtesting.actitime.scenarios.Assignment3ObjectModel@183ec003</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment6ObjectModel.logout()'><b>logout</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment6ObjectModel</td>
+<td></td>
+<td>2</td>
+<td>com.sgtesting.actitime.scenarios.Assignment6ObjectModel@451001e5</td></tr>
+<tr>
+<td title='com.sgtesting.actitime.scenarios.Assignment7ObjectModel.closeApplication()'><b>closeApplication</b><br>Test class: com.sgtesting.actitime.scenarios.Assignment7ObjectModel</td>
+<td></td>
+<td>0</td>
+<td>com.sgtesting.actitime.scenarios.Assignment7ObjectModel@2b40ff9c</td></tr>
+</table><p>
+</body>
+</html>
